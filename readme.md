@@ -1,6 +1,8 @@
 # Botkit Studio Starter Kit
 
-This repo contains everything you need to get started building a bot with Botkit Studio!
+This repo contains everything you need to get started building a bot using Slack's RTM API and Botkit!
+
+*Before you begin*: we recommend that new bot developers [start with the Slack Events API](https://github.com/howdyai/botkit-starter-slack) as it is more feature rich and easier to manage.
 
 [Botkit Studio](https://studio.botkit.ai/) is a set tools that adds capabilities
 to the open source Botkit library by offering hosted GUI interfaces for script
@@ -11,12 +13,12 @@ that created and maintains the open source Botkit library, [Howdy.](https://howd
 
 Clone this repository:
 
-`git clone https://github.com/howdyai/botkit-studio-starter.git`
+`git clone https://github.com/howdyai/botkit-starter-slackrtm.git`
 
 Install dependencies, including [Botkit](https://github.com/howdyai/botkit):
 
 ```
-cd botkit-studio-starter
+cd botkit-starter-slackrtm
 npm install
 ```
 
