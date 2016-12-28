@@ -3,7 +3,9 @@
 This repo contains everything you need to get started building a bot using Slack's RTM API and Botkit!
 
 ---
-**Before you begin**: we highly recommend that new bot developers [start this newer starter kit which uses the more modern Slack Events API](https://github.com/howdyai/botkit-starter-slack), as is thus more feature rich and easier to manage.
+
+**Before you begin**: we highly recommend that new bot developers [start with this newer starter kit which uses the more modern Slack Events API](https://github.com/howdyai/botkit-starter-slack), as is thus more feature rich and easier to manage.
+
 ---
 
 [Botkit Studio](https://studio.botkit.ai/) is a set tools that adds capabilities
