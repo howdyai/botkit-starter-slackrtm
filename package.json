@@ -1,10 +1,10 @@
 {
   "name": "botkit-studio-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A starter kit for building a custom bot with Botkit Studio",
   "main": "bot.js",
   "dependencies": {
-    "botkit": "^0.4",
+    "botkit": "^0.5",
     "dashbot": "0.7.4",
     "wordfilter": "^0.2.6"
   },
